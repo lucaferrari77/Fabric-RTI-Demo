@@ -59,10 +59,12 @@ It will contains the definition of the:
 2. Machineries
 3. Errors
 
-It will also contains the history of the error with their solutions.
+It will also contains the history of the error with their solutions.   
 [Here the steps to create it](https://learn.microsoft.com/en-us/fabric/database/sql/create).  
 
+#### Create the schema
 
+To create the schema 
 
 
 
