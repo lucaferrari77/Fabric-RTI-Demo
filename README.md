@@ -1,6 +1,9 @@
 # Fabric-RTI-Demo
 How to create a [Real Time Intelligence](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/overview) demo with Fabric.
 
+# Pre-requisites
+To create this environment you need a [Fabric trial capacity](https://learn.microsoft.com/en-us/fabric/fundamentals/fabric-trial) or a [Fabric capacity](https://blog.fabric.microsoft.com/en-US/blog/fabric-capacities-everything-you-need-to-know-about-whats-new-and-whats-coming/#WhatAreCapacities)
+ 
 # Context
 Real Time intelligence can be used to ingest, process, monitor events from multiple sources such as Plants and Machineries.
 The idea is to simulate a set of plants each with multiple machineries 
@@ -44,6 +47,21 @@ This is an example of the Json doc that represent a generic KPI event:
 
 Here the proposed Architecture:  
 ![Fabric-RTI-Demo-Specialized](https://github.com/user-attachments/assets/292f9f78-a0ba-403d-8a44-2e29791885ae)
+
+
+### Step 1 - Create Fabric workspace
+The first step is to [create a new Fabric workspace](https://learn.microsoft.com/en-us/fabric/fundamentals/create-workspaces) called RTI-Demo.  
+
+### Step 2 - Create Fabric SQL Database
+SQL database in Microsoft Fabric is a developer-friendly transactional database, based on Azure SQL Database, that allows you to easily create your operational database in Fabric.  
+It will contains the definition of the: 
+1. Plants
+2. Machineries
+3. Errors
+
+It will also contains the history of the error with their solutions.
+[Here the steps to create it](https://learn.microsoft.com/en-us/fabric/database/sql/create).  
+
 
 
 
