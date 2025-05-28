@@ -63,8 +63,9 @@ It will also contains the history of the error with their solutions.
 [Here the steps to create it](https://learn.microsoft.com/en-us/fabric/database/sql/create).  
 
 #### Create the schema
+Schema can be defined running T-SQL DDL commands through the [SQL Endpoint](https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-use-analytics-endpoint).   
+[Here the T-SQL script](https://github.com/lucaferrari77/Fabric-RTI-Demo/blob/main/Scripts/1.%20Define%20schema.sql) to define the schema.  
 
-To create the schema 
 
 
 
