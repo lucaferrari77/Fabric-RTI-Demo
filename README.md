@@ -60,7 +60,7 @@ It will contains the definition of the:
 3. Errors
 
 It will also contains the history of the error with their solutions.   
-[Here the steps to create it](https://learn.microsoft.com/en-us/fabric/database/sql/create).  
+Here the steps to [create a new SQL Database](https://learn.microsoft.com/en-us/fabric/database/sql/create).  
 
 #### Create the schema
 Schema can be defined running T-SQL DDL commands through the [SQL Endpoint](https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-use-analytics-endpoint).   
