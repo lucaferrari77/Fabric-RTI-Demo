@@ -41,9 +41,9 @@ This is an example of the Json doc that represent a generic KPI event:
 4. [Data Activator](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction)
 5. [Real-time Dashboard](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create)
 
+Here the proposed Architecture:
 ![Fabric-RTI-Demo-Specialized](https://github.com/user-attachments/assets/292f9f78-a0ba-403d-8a44-2e29791885ae)
 
-### Fabric SQL Database
 
 
 
