@@ -26,7 +26,7 @@ GO
 
 CREATE TABLE ErrorHistory
 (
-    EventId UNIQUEIDENTIFIER,
+    EventId UNIQUEIDENTIFIER
     , ErrorStart DATETIME2(6)
     , ErrorEnd DATETIME2(6)
     , PlantId TINYINT
