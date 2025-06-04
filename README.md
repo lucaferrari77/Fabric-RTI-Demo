@@ -11,7 +11,7 @@ Each Machinery from all the plants will emit their own KPIs and Errors (if neede
 In this example an event will represent either a set of Kpis from a machinery or an Error thrown by a machinery.
 All the event use Json format.
 
-# How to simulate Kpi and Error
+# How to simulate KPIs and Errors
 Plants, Machineries, KPIs and Errors can be simulated by using this [PlantSimulator](https://github.com/lucaferrari77/PlantSimulator).
 
 # Proposed Solutions
